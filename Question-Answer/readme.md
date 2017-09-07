@@ -8,7 +8,7 @@ run the baseline
 run in IRGAN framework
 <pre><code>python irgan.py</code></pre>
 
-
+论文：https://arxiv.org/pdf/1705.10513.pdf
 ## note
 
 
